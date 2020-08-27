@@ -2,3 +2,5 @@
 config.py
 ipynb_checkpoints
 ipynb_checkpoints/
+*.py
+*.bat
