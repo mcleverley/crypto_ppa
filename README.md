@@ -1,2 +1,5 @@
 # crypto_ppa
-testing crypto price predictions: Intelletic
+
+- backtesting done in 'backtesting.ipynb'
+
+testing crypto price predictions: Intelletic's cortical Price Prediction Alerts
