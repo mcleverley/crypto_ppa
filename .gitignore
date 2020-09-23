@@ -5,3 +5,5 @@ ipynb_checkpoints/
 *.py
 *.bat
 test_path.txt
+.ipynb_checkpoints
+.ipynb_checkpoints/
